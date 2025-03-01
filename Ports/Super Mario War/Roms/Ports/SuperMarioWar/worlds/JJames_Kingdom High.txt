@@ -179,7 +179,7 @@
 1,Toad House,1,||Pick an item to help you on your way!||,w0,p13,p17
 1,Spade Panel,1,|Take your chances and hope|you come out a winner!|,p0,p4,p0,w14,p0
 1,Gold House,1,||Great items for the taking here!||,p3,w12,w1
-1,Grey House,1,||Depressing selection, only heÿÿ,p1,w9,p18
+1,Grey House,1,||Depressing selection only!||,p1,w9,p18
 1,P Switch,1,||Bonus~ Bonus~ Bonus~||,p11,p6,p18
 0,Breakable Layers,5,20,2,1p6,Breakable Layers,0,80,9,6,0,3,1,1,2,1,0
 0,Mushpoie,5,50,2,1p11,Mushpoie,0,30,0,0,9,6,0,0,2,4,5
